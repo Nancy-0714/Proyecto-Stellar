@@ -1,0 +1,28 @@
+Título: 
+Proyecto Stellar Insignias
+Objetivo General:
+Desarrollar un repositorio colaborativo que genere contenido educativo (tutoriales, artículos y recursos visuales) y un sistema de insignias digitales para la comunidad de Stellar, fomentando el aprendizaje, la participación y el reconocimiento de logros.
+
+Objetivos Específicos:
+1.- Crear material de valor en formato digital (artículos, tutoriales, videos).
+2.- Diseñar un sistema de insignias que premie logros y niveles de participación.
+3.- Aplicar metodologías ágiles de gestión (Kanban) para organizar y dar seguimiento al proyecto.
+4.- Fomentar la colaboración y trabajo en equipo con herramientas estándar de la industria (GitHub).
+
+2. Alcance 📌
+Incluye:
+1.- Desarrollo de al menos 3 tipos de contenidos educativos.
+2.- Diseño de un set inicial de insignias (ejemplo: Pionero, Colaborador, Mentor).
+3.- Documentación clara en el repositorio (README.md, lineamientos de contribución).
+4.- Gestión del proyecto con un tablero Kanban en GitHub.
+Excluye:
+1.- Desarrollo de software complejo o integración con sistemas externos.
+2.- Lanzamiento oficial en plataformas fuera del repositorio (ej. redes sociales).
+
+3. Roles y Responsabilidades 👥
+Líder de Proyecto: Nayeli → Coordinar actividades, dar seguimiento en Kanban.
+Diseñador de Insignias: Nancy → Diseñar gráficamente y documentar las insignias.
+Creador/a de Contenido: Invonne → Redactar artículos, tutoriales o guías.
+Revisor de Calidad: Nayeli → Revisar redacción, formato y consistencia del contenido.
+Gestor/a Técnico/a: Nancy → Administrar el repositorio, configurar Kanban, issues y PRs.
+
